@@ -1,5 +1,5 @@
 ![pic](https://github.com/user-attachments/assets/053bbf5e-214d-4f61-b463-ce577f34ff47)
-### This is a keyboard based on the [Ergonautkb One](https://github.com/ergonautkb/).
+### This is a keyboard based on the [Ergonautkb One](https://github.com/ergonautkb/one/).
 
 ### How to change the keymap?O
 
