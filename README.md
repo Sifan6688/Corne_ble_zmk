@@ -24,7 +24,7 @@ You have two options on how to configure your desired keymap:
 ### How to flash the keyboard?
 
 1. Obtain `firmware.zip`
-2. Unzip `firmware.zip` - you should have `ergonaut_one_left-seeeduino_xiao_ble-zmk.uf2` and `ergonaut_one_right-seeeduino_xiao_ble-zmk.uf2` files
+2. Unzip `firmware.zip` - you should have `ergonaut_one_left_studio.uf2` and `ergonaut_one_right_studio.uf2` files
 3. Turn off the power for selected halve (move slider to position `OFF`)
 4. Connect selected halve to the PC via USB-C cable
 5. Press `RESET` button **twice** to enter DFU mode - you should see new USB device in your file manager
