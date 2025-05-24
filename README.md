@@ -1,8 +1,8 @@
 ![pic](https://github.com/user-attachments/assets/053bbf5e-214d-4f61-b463-ce577f34ff47)
 
-### This is a keyboard based on the [Ergonaut One](https://github.com/ergonautkb/one/).
+### This is a keyboard designed based on the [Ergonaut One](https://github.com/ergonautkb/one/).
 
-### How to change the keymap?
+### How to change the keymap
 
 1. Fork or use this repository as a template https://github.com/Sifan6688/Corne_ble_zmk.
 2. Enable Github Actions for your repository.
